@@ -2,6 +2,13 @@
 
 DungeonCrawl game exercise from the book "Learn Functional Programming with Elixir"
 
+## Screenshots
+![](screenshots/screenshot-1.png)
+![](screenshots/screenshot-2.png)
+![](screenshots/screenshot-3.png)
+![](screenshots/screenshot-4.png)
+![](screenshots/screenshot-5.png)
+
 ## Todo
 - [x] In the current game all the rooms have the same chance of appearing.
 That means the exit room might show up immediately, leading to a very
