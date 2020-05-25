@@ -13,8 +13,6 @@ defmodule DungeonCrawl.Room do
     enemy_probabilities_by_level = [easy: 5, medium: 6, hard: 8]
     healing_probabilities_by_level = [easy: 2, medium: 2, hard: 1]
 
-    IO.puts "Exit probability: #{exit_probability_by_rounds(rounds)}"
-
     [
       %Room{
         description: "You can see the light of the day. You found the exit!",
