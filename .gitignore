@@ -22,3 +22,8 @@ erl_crash.dump
 # Ignore package tarball (built via "mix hex.build").
 dungeon_crawl-*.tar
 
+# Elixir LS
+/.elixir_ls/
+
+# VS Code
+/.vscode/
